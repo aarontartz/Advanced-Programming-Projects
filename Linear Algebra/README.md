@@ -1,6 +1,8 @@
 # COMPE-361 Project 7
 ## Matrices
+### Matrix A
 ![image](https://github.com/aarontartz/Solo-Python-Projects/assets/166546889/884a5bdc-be12-423f-98dc-8835cc33f6e0)
+### Matrix B
 ![image](https://github.com/aarontartz/Solo-Python-Projects/assets/166546889/6f8169bb-6c1e-40d4-ba26-3952ce2bdc2c)
 ## Description
 This project accomplishes the following (in order):
