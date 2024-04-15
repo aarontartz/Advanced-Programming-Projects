@@ -8,5 +8,5 @@ For real x in the interval [-1, 1] and integer n > 1 with P<sub>n</sub>(x) = 1 f
 This project accomplishes the following (in order):
 * Print values of P<sub>n</sub>(x) for n = 0, 1, 2, 3, 4, & 5, in intervals of ∆x = 0.5
 * Graph these functions
-## Output of graph
+## Output Graph
 <img width="606" alt="Screenshot 2024-04-14 at 11 53 03 PM" src="https://github.com/aarontartz/Solo-Python-Projects/assets/166546889/314355a6-f1fb-4461-9ad3-874cc33d86eb">
