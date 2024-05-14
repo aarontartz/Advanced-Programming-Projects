@@ -11,4 +11,4 @@
 ## Description
 This project:
 * Solves this system using a Runge-Kutta method with the solve_ivp function in the SciPy Python package.
-* Plot i(t) and v(t) over the time interval t = [0, 10] seconds.
+* Plots i(t) and v(t) over the time interval t = [0, 10] seconds.
