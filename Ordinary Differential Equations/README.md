@@ -5,7 +5,7 @@
 <img width="103" alt="Screenshot 2024-05-14 at 11 06 06 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/f0a50143-7cca-4c83-8078-1ae22311d0ff">
 
 ### Equations (KVL & KCL)
-<img width="164" alt="Screenshot 2024-05-14 at 11 06 00 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/7f751293-0689-47f4-b81a-3da82a751825">
+<img width="164" alt="Screenshot 2024-05-14 at 11 06 00 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/7f751293-0689-47f4-b81a-3da82a751825"><br />
 <img width="193" alt="Screenshot 2024-05-14 at 11 05 55 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/b587030f-723a-4c24-8e89-1c6aed8fe48c">
 
 ## Description
