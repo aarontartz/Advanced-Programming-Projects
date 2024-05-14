@@ -1,7 +1,7 @@
 # COMPE-361 Project 10
 ## Background
 ### Central Difference Approximation Formulas
-<img width="184" alt="Screenshot 2024-05-14 at 10 57 09 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/12498017-6745-4c82-b94d-db09ef067f57">
+<img width="184" alt="Screenshot 2024-05-14 at 10 57 09 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/12498017-6745-4c82-b94d-db09ef067f57"><br />
 <img width="180" alt="Screenshot 2024-05-14 at 10 57 01 AM" src="https://github.com/aarontartz/Advanced-Programming-Projects/assets/166546889/1d40d8bc-6988-453e-be7b-40416de10078">
 
 ### Pseudocode
