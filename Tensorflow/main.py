@@ -3,7 +3,6 @@ from keras import layers
 from keras import models
 from keras import optimizers
 from keras.datasets import imdb
-
 from matplotlib import pyplot as plt
 import numpy as np
 
